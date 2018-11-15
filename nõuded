@@ -1,0 +1,55 @@
+Jäta vahele peasisuni
+Prindi see peatükk Prindi see peatükk
+Tähtaeg: 12. seminar (seminar novembri viimasel nädalal)
+
+Veebilehe projekti eesmärgiks on luua koostööna (2-3 inimest) veebileht. Veebilehe teema ja täpne sisu on grupi liikmetele vabalt otsustamiseks. Kuna tegemist on tehniliselt lihtsama lehega, sobib see väga hästi mingi teema tutvustamiseks - rühmaliikmete lemmik arvutimäng või ansambel; kellegi huvitav harrastus või meelis-sport, lemmikloom või iidol. Kindlasti jälgida, et lehe sisuks olev tekst ja meedia kuulub teile või on lubatud kasutuse puhul korrektselt viidatud.
+
+Nõuded projektile:
+
+Kasutada versioonihaldustarkvara Git
+
+Projekt on avalikult kättesaadav repositooriumis (Github, Bitbucket vmt)
+
+Projekti panustavad kõik tiimiliikmed võrdselt
+
+Valmis projekt on üleval kodu.ut.ee lehel
+
+Projekti wiki sisaldab:
+
+Mida veebileht tutvustab või mis on selle lehe eesmärk?
+
+Kes on tiimiliikmed?
+
+Milline on tiimisisene tööjaotus?
+
+Ülesanded tuleks jagada tiimiliikmete vahel võrdselt
+
+Millised raskused esinesid? Mida õppisite?
+
+Nõuded veebilehe teostusele:
+
+Kasutusel on HTML ja CSS
+
+Kasutatud on javascripti, et leht oleks kas interaktiivne või dünaamiline
+
+Lehel on vähemalt 2 vahelehte
+
+Leht sisaldab pilte ja/või videosid
+
+HTML ja CSS on errorite vabad
+
+Kood on loogiliselt struktureeritud: js, css kood eraldi oma failides. Ideaalis vahelehtede kood samuti eraldi failides.
+
+Intermediate hindamine (11. õppenädalal kontrollitakse, et: )
+
+Iga tiimiliige on teinud commit’e
+
+Wiki lehel on kirjas, millised raskused on seni esinenud
+
+Eriliselt kauni või suure pühendumusega tehtud lehe autoritele arvestustööl 1 lisapunkt.
+
+Tähtaeg: esitluse tegemise päev (kaheteistkümnes seminar)
+
+ 
+
+Viimati muudetud: teisipäev, 30. oktoober 2018, 19.43
