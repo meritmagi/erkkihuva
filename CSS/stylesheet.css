@@ -12,13 +12,14 @@
 .text{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 100%;
-    font-size: 50px;
+    font-size: 5px;
 }
 .heading{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 100%;
-    font-size: 50px;
+    font-size: 25px;
 }
-.heading img{
-    float: right;
+.image{
+    width: 200px;
+
 }
