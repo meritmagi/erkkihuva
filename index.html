@@ -5,10 +5,18 @@
 
         <title>Steve Jobs</title> 
         <link rel="stylesheet" href="css/stylesheet.css">
+        <script src="js/script.js"></script>
 </head>
 <body>
-    <a href="steveJobs.html"><input class="button" type="SteveJobs" value="STEVE JOBS" name=""></a>
-    <br>
-    <a href="realityDistortionfield.html"><input class="button" type="Reality Distortion Field" value="REALITY DISTORTION FIELD" name=""></a>
+    <script>
+        function vahelehtSteveJobs(){
+        window.location="steveJobs.html"
+        }
+        function vahelehtRealityDistortionField(){
+        window.location="realityDistortionfield.html"
+        }
+    </script>
+    <button type="button" id="SJ" class="button" onclick="vahelehtSteveJobs()">Steve Jobs</button>
+    <button type="button" id="RDF" class="button" onclick="vahelehtRealityDistortionField()">Reality Distortion Field</button>
 </body>
 </html>
