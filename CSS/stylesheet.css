@@ -1,14 +1,21 @@
 *{
+    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 120px;
+
+    font-size: 100px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     width: 100%;
   
 
+
+
+
 }
 
 .body{
-    background-color: green;
+    background-color: green; 
+
 }
+
