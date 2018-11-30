@@ -26,22 +26,33 @@
     font-size: 25px;
 }
 
+h2{
+    margin-left: 5px;
+}
+
 .columnLeft{
     float: left;
-    width: 25%;
+    width: 33%;
     font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+    
 }
 
 .columnMiddle{
     display: inline-block;
-    width: 50%;
+    width: 33%;
     font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
 }
 
 .columnRight{
     float: right;
-    width: 25%;
+    width: 33%;
     font-size: 15px;    
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
 }
 
 .row:after{
@@ -50,7 +61,30 @@
     clear: both;
 }
 
-.image{
-    width: 200px;
+.columnLeft2{
+    float: left;
+    width: 25%;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+    padding-left: 100px;
+    padding-top: 10px;
+}
 
+.columnMiddle2{
+    display: inline-block;
+    width: 40%;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+    margin-top: 0%;
+}
+
+.columnRight2{
+    float: right;
+    width: 25%;
+    font-size: 15px;    
+    letter-spacing: 0.05em;
+    line-height: 1.6em;
+    margin-top: 0;
 }
