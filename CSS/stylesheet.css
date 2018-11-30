@@ -7,7 +7,7 @@
     box-sizing: border-box;
     font-size: 80px;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    width: 100%;
+    text-align: center;
 }
 .text{
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
@@ -20,6 +20,7 @@
     letter-spacing: 0.05em
 
 }
+}
 .heading{
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     width: 100%;
@@ -28,6 +29,17 @@
 
 h2{
     margin-left: 5px;
+    text-align: center;
+}
+
+.headingSJ1{
+    font-size: 32px;
+    font-weight: 250;
+}
+
+.headingSJ2{
+    font-size: 25px;
+    font-weight: 250;
 }
 
 .columnLeft{
@@ -63,7 +75,7 @@ h2{
 
 .columnLeft2{
     float: left;
-    width: 25%;
+    width: 33%;
     font-size: 15px;
     letter-spacing: 0.05em;
     line-height: 1.6em;
@@ -73,7 +85,7 @@ h2{
 
 .columnMiddle2{
     display: inline-block;
-    width: 40%;
+    width: 33%;
     font-size: 15px;
     letter-spacing: 0.05em;
     line-height: 1.6em;
@@ -82,20 +94,11 @@ h2{
 
 .columnRight2{
     float: right;
-    width: 25%;
-    font-size: 15px;    
-    letter-spacing: 0.05em;
-    line-height: 1.6em;
+    width: 33%;
     margin-top: 0;
 }
 
-.columnMiddle3{
-    display: block ;
-    width: 50%;
-    font-size: 30px;
-    letter-spacing: 0.05em;
-    line-height: 2em;
-    margin-top: 0;
-
-
+div{
+    padding: 10px;
+    text-align: justify;
 }
